@@ -1,2 +1,2 @@
-# rayzportfolio.github.io
+# rayzdesigner.github.io
 My portfolio :)
