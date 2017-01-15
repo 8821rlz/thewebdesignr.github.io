@@ -1,0 +1,11 @@
+html{
+	background-color: #75D8FF;
+}
+
+div{
+	font-family: 'Open Sans';
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
